@@ -112,7 +112,7 @@ class Lista{
 			}
 			else {
 				aux->down = nuevo;
-				nuevo->down = aux;
+				nuevo->up = aux;
 			}
 			return nuevo;
 		}
