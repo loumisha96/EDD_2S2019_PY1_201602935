@@ -18,7 +18,16 @@
     <ClCompile Include="proyecto.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="listaMatriz.cpp">
+    <ClCompile Include="ListaCapas.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ABB.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ListaDoble.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>

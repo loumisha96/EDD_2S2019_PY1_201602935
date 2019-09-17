@@ -1,0 +1,26 @@
+
+body {
+    background: #333333; /* Background color of the whole page */
+    height: 100vh; /* 100 viewport heigh units */
+    display: flex; /* defines a flex container */
+    justify-content: center; /* centers the canvas horizontally */
+    align-items: center; /* centers the canvas vertically */
+}
+
+.canvas {
+    width: 480px; /* Width of the canvas */
+    height: 480px; /* Height of the canvas */
+}
+
+.pixel {
+    width: 30px; /* Width of each pixel */
+    height: 30px; /* Height of each pixel */
+    float: left; /* Everytime it fills the canvas div it will begin a new line */
+    /*box-shadow: 0px 0px 1px #fff;*/ /* Leave commented, showing the pixel boxes */
+}
+
+/* list of pixels that will be painted */
+.pixel:nth-child(92),
+.pixel:nth-child(93) {
+    background: #000000; /* Color of the pixel painted */
+}

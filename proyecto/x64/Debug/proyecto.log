@@ -1,4 +1,4 @@
-﻿  listaMatriz.cpp
-  proyecto.cpp
-  Generando código...
+﻿  Menu.cpp
+C:\Users\lourd\Desktop\usac\EDD\proyecto\proyecto\Menu.cpp(69): warning C4129: '/': secuencia de escape de carácter no reconocida
+C:\Users\lourd\Desktop\usac\EDD\proyecto\proyecto\ListaCapas.cpp(156): warning C4717: 'ListaCapas::printcolumna': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
   proyecto.vcxproj -> C:\Users\lourd\Desktop\usac\EDD\proyecto\x64\Debug\proyecto.exe

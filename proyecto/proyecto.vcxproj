@@ -151,7 +151,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="listaMatriz.cpp" />
+    <ClCompile Include="ABB.cpp" />
+    <ClCompile Include="ListaCapas.cpp" />
+    <ClCompile Include="ListaDoble.cpp" />
+    <ClCompile Include="Menu.cpp" />
     <ClCompile Include="proyecto.cpp" />
   </ItemGroup>
   <ItemGroup>
